@@ -1,0 +1,11 @@
+{
+  "title": "Sonic-Forage Afterparty Signal 001",
+  "duration_seconds": 34,
+  "video": "1280x720 H.264",
+  "audio": "AAC 48kHz stereo generated synth bed",
+  "rights": "owned/generated",
+  "gpu_started": false,
+  "model_download_started": false,
+  "public_posted": false,
+  "source_script": "examples/sonic-forage-afterparty-signal/build_signal_video.py"
+}
